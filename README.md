@@ -81,7 +81,7 @@ E --> F[LEDs / Relays / Appliances]
 | ESP32               | C++ (PlatformIO in VS Code)               |
 | PC-side Gesture     | Python, OpenCV, MediaPipe                 |
 | Cloud               | Firebase Realtime Database                |
-| Mobile App          | Android (Java/Kotlin or Flutter)         |
+| Mobile App          | Android (Java)                            |
 
 ---
 
@@ -91,7 +91,7 @@ E --> F[LEDs / Relays / Appliances]
 - [VS Code](https://code.visualstudio.com/) with PlatformIO extension
 - [Python 3.9+](https://www.python.org/downloads/)
 - [Firebase Console](https://console.firebase.google.com/)
-- Android Studio or Flutter SDK
+- Android Studio
 
 ---
 
@@ -194,10 +194,13 @@ Add your screenshots in the `images/` folder.
 
 ## 👥 Team
 
-- 👨‍💻 SEU/IS/19/ICT/031  
-- 👨‍💻 SEU/IS/19/ICT/050  
-- 👨‍💻 SEU/IS/19/ICT/066  
-- 👨‍💻 SEU/IS/19/ICT/082  
+| Student ID                 | GitHub Profile                                                     |
+|----------------------------|--------------------------------------------------------------------|
+| Suranga Prabash            | [@surangaprabash](https://github.com/surangaprabash)               |
+| Asith Jayasahan            | [@AsithJayasahan](https://github.com/AsithJayasahan)               |
+| Sachintha Senevirathna     | [@PKSNSenevirathna](https://github.com/PKSNSenevirathna)           |
+| Farha                      | [@your-github-username4](https://github.com/your-github-username4) |
+
 
 ---
 

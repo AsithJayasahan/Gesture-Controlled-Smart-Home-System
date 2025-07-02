@@ -194,7 +194,7 @@ Add your screenshots in the `images/` folder.
 
 ## 👥 Team
 
-| Student ID                 | GitHub Profile                                                     |
+| Name                       | GitHub Profile                                                     |
 |----------------------------|--------------------------------------------------------------------|
 | Suranga Prabash            | [@surangaprabash](https://github.com/surangaprabash)               |
 | Asith Jayasahan            | [@AsithJayasahan](https://github.com/AsithJayasahan)               |

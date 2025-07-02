@@ -44,15 +44,6 @@ All state changes are updated and monitored in **Firebase Realtime Database**, a
 
 ## 🏗️ System Architecture
 
-```mermaid
-graph TD
-A[User Hand Gesture (Webcam)] --> B[Python + OpenCV Script]
-B --> C[Firebase Realtime Database]
-D[Mobile App] --> C
-C --> E[ESP32 Microcontroller]
-E --> F[LEDs / Relays / Appliances]
-```
-
 - Webcam captures gesture input
 - Python script processes gesture and sends command to Firebase
 - Firebase stores ON/OFF states

@@ -67,4 +67,3 @@ with mp_hands.Hands(max_num_hands=1, min_detection_confidence=0.7) as hands:
 
 cap.release()
 cv2.destroyAllWindows()
-,

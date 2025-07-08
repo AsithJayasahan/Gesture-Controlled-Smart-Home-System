@@ -190,7 +190,7 @@ Add your screenshots in the `images/` folder.
 | Suranga Prabash            | [@surangaprabash](https://github.com/surangaprabash)               |
 | Asith Jayasahan            | [@AsithJayasahan](https://github.com/AsithJayasahan)               |
 | Sachintha Senevirathna     | [@PKSNSenevirathna](https://github.com/PKSNSenevirathna)           |
-| Farha                      | [@your-github-username4](https://github.com/your-github-username4) |
+| Farha                      | [@Farha](https://github.com/your-github-username4) |
 
 
 ---
